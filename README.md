@@ -39,25 +39,83 @@ A estrutura do repositório foi organizada para proporcionar uma experiência de
     - [Sistema de Formatação de Datas](https://github.com/devitruvius/algoritmo_formatador_datas/blob/main/algoritmo_formatador_datas.py)
 <br>
 
-6. **Faça um programa que receba o código correspondente ao cargo de um funcionário e seu salário atual e mostre o cargo, o valor do aumento e seu novo salário. Os cargos estão na tabela a seguir:**
+6. **Faça um programa que receba o código correspondente ao cargo de um funcionário e seu salário atual e mostre o cargo, o valor do aumento e seu novo salário. Os cargos estão na tabela a seguir:**<br>
 
-   - [Sistema de Avaliação Escolar](https://github.com/devitruvius/algoritmo_sistema_avaliacao_escolar)
+      | Código | Cargo | Percentual |
+      |----------|----------|----------|
+      | 1 | Escriturário  | 50%  |
+      | 2 | Secretário | 35%  |
+      | 3 | Caixa  | 20%  |
+      | 4 | Gerente  | 10%  |
+      | 5 | Diretor  | Não tem aumento  |
+
+   - [Sistema de Ajuste Salarial](https://github.com/devitruvius/algoritmo_calculadora_aumento_salarial/blob/main/algoritmo_calculadora_aumento_salarial.py)
 <br>
 
-7. **Faça um programa que receba o salário de um funcionário, calcule e mostre o novo salário desse funcionário, acrescido de bonificação e de auxílio-escola.**
+7. **Faça um programa que receba o salário de um funcionário, calcule e mostre o novo salário desse funcionário, acrescido de bonificação e de auxílio-escola.**<br>
 
-   - [Sistema de Avaliação Escolar](https://github.com/devitruvius/algoritmo_sistema_avaliacao_escolar)
+      | Salário | Bonificação |         
+      |----------|----------|
+      | Até R$ 500,00 | 5% do Salário  |
+      | Entre R$ 500,00 e R$ 1.200,00 | 12% do Salário |
+      | Acima de R$ 1.200,00 | Sem bonificação  |
+
+   
+      | Salário | Auxílio-Escola |         
+      |----------|----------|
+      | Até R$ 600,00 | R$ 150,00  |
+      | Mais que R$ 600,00 | R$ 100,00 |
+   
+   - [Sistema de Cálculo de Salário com Bonificação e Auxílio-Escola](https://github.com/devitruvius/algoritmo_calculadora_salario_bonificacao_auxilio-escola/blob/main/algoritmo_calculadora_salario_bonificacao_auxilio-escola.py)
 <br>
 
 8. **Faça um programa para resolver equações do 2º. grau. (utilize a função RAIZ para a raiz quadrada).**
 
-    - [Sistema de Avaliação Escolar](https://github.com/devitruvius/algoritmo_sistema_avaliacao_escolar)
+```python
+# ax² + bx + c = 0
+# A variável 'a' deve ser diferente de zero.
+# Δ = b² - 4 * a * c
+# Δ < 0 → não existe raiz real
+# Δ = 0 → existe uma raiz real
+# x = (-b)/(2 * a)
+# Δ > 0 → existem duas raízes reais
+# x1 = (-b + √Δ)/(2 * a)
+# x2 = (-b - √Δ)/(2 * a)
+```
+    
+  - [Calculadora de Equação Quadrática](https://github.com/devitruvius/algoritmo_calculadora_equacao_quadratica/blob/main/algoritmo_calculadora_equacao_quadratica.py)
 <br>
 
 9. **Dados três valores X, Y e Z, verificar se eles podem ser os comprimentos dos lados de um triângulo e, se forem, verificar se o um triângulo equilátero, isósceles ou escaleno. Se eles não formarem um triângulo escrever uma mensagem. Considerar que:**
+    - O comprimento de cada lado de um triângulo é menor que a soma dos outros dois lados;
+    - Chama-se triângulo equilátero o triângulo que tem três lados iguais;
+    - Chama-se triângulo isósceles o triângulo que tem o comprimento de dois lados iguais;
+    - Chama-se triângulo escaleno o triângulo que tem os três lados diferentes. 
 
-    - [Sistema de Avaliação Escolar](https://github.com/devitruvius/algoritmo_sistema_avaliacao_escolar)
+    - [Verificador e Classificador de Triângulos](https://github.com/devitruvius/algoritmo_verificador_classificador_triangulos/blob/main/algoritmo_verificador_classificador_triangulos.py)
 <br>
 
 10. **Faça um programa que receba:**
-    - [Sistema de Avaliação Escolar](https://github.com/devitruvius/algoritmo_sistema_avaliacao_escolar)
+    - O código de um produto comprado, supondo que a digitação do código do produto seja sempre válida, ou seja, um número inteiro entre l e 10;
+    - O peso do produto em quilos;
+    - O  código do país de origem, supondo que a digitação do código do país seja sempre válida, ou seja, um número inteiro entre 1 e 3.
+
+      | Código do País de Origem | Imposto |         
+      |----------|----------|
+      | 1 | 0%  |
+      | 2 | 15% |
+      | 3 | 25% |
+
+      | Código do Produto | Preço por Grama |         
+      |----------|----------|
+      | 1 a 4 | 10  |
+      | 5 a 7 | 25 |
+      | 8 a 10 | 35 |
+
+Calcule e mostre:
+   - O peso do produto convertido em gramas.
+   - O preço total do produto comprado.
+   - O valor do imposto, sabendo-se que ele é cobrado sobre o preço total do produto comprado e depende do país de origem.
+   - O valor total, preço total do produto mais imposto.
+
+   - [Calculadora de Preço Total com Imposto para Produtos](https://github.com/devitruvius/algoritmo_calculadora_preco_produto_com_imposto/blob/main/algoritmo_calculadora_preco_produto_com_imposto.py)
