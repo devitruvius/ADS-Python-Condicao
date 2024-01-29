@@ -16,27 +16,27 @@ A estrutura do repositório foi organizada para proporcionar uma experiência de
       | 3,0 ~ 7,0 | Exame |
       | 7,0 ~ 10,0 | Aprovado  |
 
-   - [Sistema de Avaliação Escolar](https://github.com/devitruvius/algoritmo_sistema_avaliacao_escolar/blob/main/algoritmo_sistema_avaliacao_escolar.py)
+- [Sistema de Avaliação Escolar](https://github.com/devitruvius/algoritmo_sistema_avaliacao_escolar/blob/main/algoritmo_sistema_avaliacao_escolar.py)
 <br>
 
 2. **Faça um programa que receba dois números e mostre o maior.**
  
-   - [Sistema de Identificação do Maior Número](https://github.com/devitruvius/algoritmo_mostra_maior/blob/main/algoritmo_mostra_maior.py)
+- [Sistema de Identificação do Maior Número](https://github.com/devitruvius/algoritmo_mostra_maior/blob/main/algoritmo_mostra_maior.py)
 <br> 
 
 3. **Faça um programa que receba três números e mostre-os em ordem crescente.**
 
-    - [Sistema de Ordenação Crescente](https://github.com/devitruvius/algoritmo_mostra_crescente/blob/main/algoritmo_mostra_crescente.py)
+- [Sistema de Ordenação Crescente](https://github.com/devitruvius/algoritmo_mostra_crescente/blob/main/algoritmo_mostra_crescente.py)
 <br>
  
 4. **Faça um programa que receba três números obrigatoriamente em ordem crescente e um quarto número que não siga esta regra. Mostre, em seguida, os quatro números em ordem decrescente.**
 
-   - [Sistema de Ordenação Decrescente](https://github.com/devitruvius/algoritmo_mostra_decrescente/blob/main/algoritmo_mostra_decrescente.py)
+- [Sistema de Ordenação Decrescente](https://github.com/devitruvius/algoritmo_mostra_decrescente/blob/main/algoritmo_mostra_decrescente.py)
 <br>
 
 5. **Faça um programa que receba o dia o mês e o ano e mostre nos seguintes formatos: dia/mês/ano - mês por extenso. (ex: 19/03/2020 -> 19 de março de 2020).**
 
-    - [Sistema de Formatação de Datas](https://github.com/devitruvius/algoritmo_formatador_datas/blob/main/algoritmo_formatador_datas.py)
+- [Sistema de Formatação de Datas](https://github.com/devitruvius/algoritmo_formatador_datas/blob/main/algoritmo_formatador_datas.py)
 <br>
 
 6. **Faça um programa que receba o código correspondente ao cargo de um funcionário e seu salário atual e mostre o cargo, o valor do aumento e seu novo salário. Os cargos estão na tabela a seguir:**<br>
@@ -49,7 +49,7 @@ A estrutura do repositório foi organizada para proporcionar uma experiência de
       | 4 | Gerente  | 10%  |
       | 5 | Diretor  | Não tem aumento  |
 
-   - [Sistema de Ajuste Salarial](https://github.com/devitruvius/algoritmo_calculadora_aumento_salarial/blob/main/algoritmo_calculadora_aumento_salarial.py)
+- [Sistema de Ajuste Salarial](https://github.com/devitruvius/algoritmo_calculadora_aumento_salarial/blob/main/algoritmo_calculadora_aumento_salarial.py)
 <br>
 
 7. **Faça um programa que receba o salário de um funcionário, calcule e mostre o novo salário desse funcionário, acrescido de bonificação e de auxílio-escola.**<br>
@@ -66,7 +66,7 @@ A estrutura do repositório foi organizada para proporcionar uma experiência de
       | Até R$ 600,00 | R$ 150,00  |
       | Mais que R$ 600,00 | R$ 100,00 |
    
-   - [Sistema de Cálculo de Salário com Bonificação e Auxílio-Escola](https://github.com/devitruvius/algoritmo_calculadora_salario_bonificacao_auxilio-escola/blob/main/algoritmo_calculadora_salario_bonificacao_auxilio-escola.py)
+- [Sistema de Cálculo de Salário com Bonificação e Auxílio-Escola](https://github.com/devitruvius/algoritmo_calculadora_salario_bonificacao_auxilio-escola/blob/main/algoritmo_calculadora_salario_bonificacao_auxilio-escola.py)
 <br>
 
 8. **Faça um programa para resolver equações do 2º. grau. (utilize a função RAIZ para a raiz quadrada).**
@@ -83,16 +83,17 @@ A estrutura do repositório foi organizada para proporcionar uma experiência de
 # x2 = (-b - √Δ)/(2 * a)
 ```
     
-  - [Calculadora de Equação Quadrática](https://github.com/devitruvius/algoritmo_calculadora_equacao_quadratica/blob/main/algoritmo_calculadora_equacao_quadratica.py)
+- [Calculadora de Equação Quadrática](https://github.com/devitruvius/algoritmo_calculadora_equacao_quadratica/blob/main/algoritmo_calculadora_equacao_quadratica.py)
 <br>
 
 9. **Dados três valores X, Y e Z, verificar se eles podem ser os comprimentos dos lados de um triângulo e, se forem, verificar se o um triângulo equilátero, isósceles ou escaleno. Se eles não formarem um triângulo escrever uma mensagem. Considerar que:**
+
     - O comprimento de cada lado de um triângulo é menor que a soma dos outros dois lados;
     - Chama-se triângulo equilátero o triângulo que tem três lados iguais;
     - Chama-se triângulo isósceles o triângulo que tem o comprimento de dois lados iguais;
     - Chama-se triângulo escaleno o triângulo que tem os três lados diferentes. 
 
-    - [Verificador e Classificador de Triângulos](https://github.com/devitruvius/algoritmo_verificador_classificador_triangulos/blob/main/algoritmo_verificador_classificador_triangulos.py)
+- [Verificador e Classificador de Triângulos](https://github.com/devitruvius/algoritmo_verificador_classificador_triangulos/blob/main/algoritmo_verificador_classificador_triangulos.py)
 <br>
 
 10. **Faça um programa que receba:**
@@ -112,10 +113,10 @@ A estrutura do repositório foi organizada para proporcionar uma experiência de
       | 5 a 7 | 25 |
       | 8 a 10 | 35 |
 
-Calcule e mostre:
-   - O peso do produto convertido em gramas.
-   - O preço total do produto comprado.
-   - O valor do imposto, sabendo-se que ele é cobrado sobre o preço total do produto comprado e depende do país de origem.
-   - O valor total, preço total do produto mais imposto.
-
-   - [Calculadora de Preço Total com Imposto para Produtos](https://github.com/devitruvius/algoritmo_calculadora_preco_produto_com_imposto/blob/main/algoritmo_calculadora_preco_produto_com_imposto.py)
+Calcule e mostre:<br>
+&nbsp;&nbsp;&nbsp;1. O peso do produto convertido em gramas.<br>
+&nbsp;&nbsp;&nbsp;2. O preço total do produto comprado.<br>
+&nbsp;&nbsp;&nbsp;3. O valor do imposto, sabendo-se que ele é cobrado sobre o preço total do produto comprado e depende do país de origem.<br>
+&nbsp;&nbsp;&nbsp;4. O valor total, preço total do produto mais imposto.<br>
+    
+- [Calculadora de Preço Total com Imposto para Produtos](https://github.com/devitruvius/algoritmo_calculadora_preco_produto_com_imposto/blob/main/algoritmo_calculadora_preco_produto_com_imposto.py)
