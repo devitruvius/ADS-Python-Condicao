@@ -39,7 +39,7 @@ A estrutura do repositório foi organizada para proporcionar uma experiência de
     - [Sistema de Formatação de Datas](https://github.com/devitruvius/algoritmo_formatador_datas/blob/main/algoritmo_formatador_datas.py)
 <br>
 
-6. ** Faça um programa que receba o código correspondente ao cargo de um funcionário e seu salário atual e mostre o cargo, o valor do aumento e seu novo salário. Os cargos estão na tabela a seguir:**
+6. **Faça um programa que receba o código correspondente ao cargo de um funcionário e seu salário atual e mostre o cargo, o valor do aumento e seu novo salário. Os cargos estão na tabela a seguir:**
 
    - [Sistema de Avaliação Escolar](https://github.com/devitruvius/algoritmo_sistema_avaliacao_escolar)
 <br>
