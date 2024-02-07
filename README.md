@@ -1,6 +1,6 @@
 # Estruturas de Condição em Python
 
-Este repositório contém exemplos de código em Python que aplicam conceitos das estruturas de condição. Os códigos foram desenvolvidos como parte das atividades da disciplina de Fundamentos de Algoritmo do curso de Análise e Desenvolvimento de Sistemas (ADS) pela Universidade Federal do Cariri (UFCA). O objetivo principal do cumprimento destas atividades foi fornecer uma prática sólida e consolidar os conceitos fundamentais relacionados às estruturas condicionais em Python, promovendo a compreensão e o aprimoramento das habilidades de programação nessa linguagem.
+Este repositório contém exemplos de código em Python que foram desenvolvidos como parte das atividades da disciplina de Fundamentos de Algoritmo do curso de Análise e Desenvolvimento de Sistemas (ADS) pela Universidade Federal do Cariri (UFCA). O objetivo principal do cumprimento destas atividades foi fornecer uma prática sólida e consolidar os conceitos fundamentais relacionados às estruturas condicionais em Python, promovendo a compreensão e o aprimoramento das habilidades de programação nessa linguagem.
 
 ## Estrutura do Repositório
 
