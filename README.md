@@ -4,7 +4,7 @@ Este repositório contém exemplos de código em Python que aplicam conceitos da
 
 ## Estrutura do Repositório
 
-A estrutura do repositório foi organizada para proporcionar uma experiência de navegação eficiente e facilitar a revisão dos códigos. Cada bloco de atividade está representada por um tópico, dentro do qual você encontrará os repositórios dedicados às atividades desenvolvidas.
+A estrutura do repositório foi organizada para proporcionar uma experiência de navegação eficiente e facilitar a revisão dos códigos. Cada bloco de atividade está representada por um tópico, dentro do qual você encontrará os códigos referentes às respectivas atividades.
 
 ## Atividades
 
