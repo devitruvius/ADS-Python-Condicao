@@ -357,3 +357,7 @@ A estrutura do repositório foi organizada para proporcionar uma experiência de
       print(f'\nValor do imposto: R$ {valor_imposto:.2f}')
       print(f'\nValor total: R$ {valor_total:.2f}')
       ```
+<hr>
+
+## Fundamentos de Algoritmos
+Acesse o repositório principal: https://github.com/devitruvius/ADS-fundamentos-de-algoritmos
