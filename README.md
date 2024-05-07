@@ -364,7 +364,7 @@ A estrutura do repositório foi organizada para proporcionar uma experiência de
    - [Repositório da Lista de Atividades I](https://github.com/devitruvius/FA-pseudocodigos-atividades)
 
 * **Atividade 2: Aplicando Conceitos das Estruturas de Condição em Python**
-   - ***[Repositório da Lista de Atividades II]***
+   - ***Repositório da Lista de Atividades II***
 
 * **Atividade 3: Aplicando Conceitos das Estruturas de Repetição em Python**
    - [Repositório da Lista de Atividades III](https://github.com/devitruvius/ADS-python-loop-statement)
